@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image:url("../img/background-pastel.png");
+    height: 100vh;
+}
+
+.title-head{
+    font-family: 'Comic Sans MS';
+    font-weight: bolder;
+}
+
+.img-lamp{
+    height: 300px;
+}
